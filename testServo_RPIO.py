@@ -6,7 +6,7 @@ import sys
 
 servo = PWM.Servo()
 
-SERVO_PIN = 8
+SERVO_PIN = 24
 
 def set_us_time(us):
     # Set servo on SERVO_PIN to 2000us (2.0ms)
